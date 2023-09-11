@@ -1,0 +1,11 @@
+img{
+    background-size: cover;
+    height: 20rem;
+    width:20rem ;
+}
+
+
+.card{
+    height: 20rem;
+    width: 3;
+}
