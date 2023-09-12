@@ -12,6 +12,7 @@ import { HeadboardsComponent } from './pages/headboards/headboards.component';
 import { StoragesComponent } from './pages/storages/storages.component';
 import { CardsComponent } from './ui/cards/cards.component';
 import { FooterComponent } from './ui/footer/footer.component';
+import { CouchsViewComponent } from './pages/couchs-view/couchs-view.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { FooterComponent } from './ui/footer/footer.component';
     HeadboardsComponent,
     StoragesComponent,
     CardsComponent,
-    FooterComponent
+    FooterComponent,
+    CouchsViewComponent
   ],
   imports: [
     BrowserModule,
